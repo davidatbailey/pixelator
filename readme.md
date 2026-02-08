@@ -7,9 +7,7 @@ The output's colour palette be auto-generated, or it can use a fixed retro palet
 
 The plugin was written by DATB (not using AI!) and compiled in CodeLab.
 
-<video autoplay controls>
-  <source src="img/pixelator_demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/955648c6-5659-462f-b058-fa2df281d82a
 
 ## How to install and use Pixelator
 
